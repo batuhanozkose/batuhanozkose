@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/batuhankse01" target="blank"><img src="https://img.shields.io/twitter/follow/batuhankse01?logo=twitter&style=for-the-badge" alt="batuhankse01" /></a> </p>
 
-- 🔭 I’m currently working on [BetaSunucu!](https://betasunucu.com)
+- 🔭 I’m currently working on [BetaSunucu!](https://betasunucu.com) and [Redoya!](https://redoya.net)
 
 - 📫 How to reach me **heyo@batuhan.xyz**
 
