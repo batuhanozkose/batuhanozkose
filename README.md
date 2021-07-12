@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Batuhan!</h1>
 <h3 align="center">Web Developer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhankse&label=Profile%20views&color=ff0000&style=plastic" alt="batuhankse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhan_ozkose&label=Profile%20views&color=ff0000&style=plastic" alt="batuhan_ozkose" /> </p>
 
 <p align="left"> <a href="https://twitter.com/batuhan_ozkose" target="blank"><img src="https://img.shields.io/twitter/follow/batuhankse01?logo=twitter&style=for-the-badge" alt="batuhan_ozkose" /></a> </p>
 
-- 🔭 I’m currently working on [BetaSunucu!](https://betasunucu.com) and [Redoya!](https://redoya.net)
+- 🔭 I’m currently working on [Redoya!](https://redoya.net)
 
 - 📫 How to reach me **heyo@batuhan.xyz**
 
