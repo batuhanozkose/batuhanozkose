@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Redoya!](https://redoya.net) and [MegaMeka!](https://megameka.com)
 
-- 📫 How to reach me **batuhanz@outlook.de**
+- 📫 How to reach me **batu@megameka.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
