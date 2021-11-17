@@ -2,10 +2,6 @@
 <h3 align="center">Web Developer!</h3>
 <h2 align="center">senius'dev</h2>
 
-<div align="center">
-    <a href="https://discord.com/users/690918038463184908" title="Discord Hesabım"><img src="https://lanyard-profile-readme.vercel.app/api/690918038463184908"></a>
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanozkose&label=Profile%20views&color=ff0000&style=plastic" alt="batuhanozkose" /> </p>
 
 <p align="left"> <a href="https://twitter.com/batuhan_ozkose" target="blank"><img src="https://img.shields.io/twitter/follow/batuhan_ozkose?logo=twitter&style=for-the-badge" alt="batuhan_ozkose" /></a> </p>
