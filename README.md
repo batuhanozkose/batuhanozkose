@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/batuhan_ozkose" target="blank"><img src="https://img.shields.io/twitter/follow/batuhan_ozkose?logo=twitter&style=for-the-badge" alt="batuhan_ozkose" /></a> </p>
 
-- 🔥 My main project is [ValoranTR](https://valorantr.com)
-
-- 🔭 I’m currently working on [Redoya!](https://redoya.net)
+- 🔭 I’m currently working on [Redoya!](https://redoya.net) and [MegaMeka!](https://megameka.com)
 
 - 📫 How to reach me **batuhanz@outlook.de**
 
