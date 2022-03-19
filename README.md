@@ -2,7 +2,7 @@
 <h3 align="center">Web and Mobile Developer!</h3>
 <h2 align="center">senius'dev</h2>
 
-[![Discord](https://lanyard-profile-readme.vercel.app/api/690918038463184908?borderRadius=30px&idleMessage=No%20activities.)](https://discord.com/users/690918038463184908)
+<center> [![Discord](https://lanyard-profile-readme.vercel.app/api/690918038463184908?borderRadius=30px&idleMessage=No%20activities.)](https://discord.com/users/690918038463184908) </center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanozkose&label=Profile%20views&color=ff0000&style=plastic" alt="batuhanozkose" /> </p>
 
