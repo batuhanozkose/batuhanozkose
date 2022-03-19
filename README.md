@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on nothing :(
 
-- 📫 How to reach me **batu@batus.email**
+- 📫 How to reach me **info@avelbatu.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
