@@ -9,4 +9,4 @@ Hi 👋 I am a young developer from <img width="20" height="20" align="center" s
 The passion of programming started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. I am more focused on web development and I am trying to learn more about them.
 
 
-readme by eggsy.
+readme by [eggsy](https://github.com/eggsy)
