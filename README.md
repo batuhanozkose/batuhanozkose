@@ -4,7 +4,7 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanozkose&theme=dark&hide_border=true&layout=compact">
 
-Hi 👋 I am a young developer from <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Turkey**. I am an high school student.
+Hi 👋 I am a young developer from <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Turkey**.
 
 The passion of programming started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. I am more focused on web development and I am trying to learn more about them.
 
