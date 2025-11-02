@@ -1,4 +1,4 @@
-# Hi, I'm Batuhan 👋 <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="26px" alt="coding gif">
+# Hi, I'm Batuhan 👋
 
 [![X: @batuhan_ozkose](https://img.shields.io/badge/X-@batuhan_ozkose-1DA1F2?logo=x&logoColor=white)](https://x.com/batuhan_ozkose) [![Email](https://img.shields.io/badge/Email-batuhan%40ozkose.org-EA4335?logo=gmail&logoColor=white)](mailto:batuhan@ozkose.org)
 
